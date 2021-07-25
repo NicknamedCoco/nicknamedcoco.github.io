@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Swagger笔记</title>
+      <link href="/2021/07/25/Swagger%E7%AC%94%E8%AE%B0/"/>
+      <url>/2021/07/25/Swagger%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><blockquote><p>近况</p></blockquote><p>今天把狂神的Swagger视频看完了，整体来看Swagger框架还是比较简单的，<br>Swagger主要作用就是生成接口文档，供前后端开发协调使用，但在代码中插入过多的注释和注解<br>是否真的好，我感觉有利也有弊，并且Swagger框架在运行的时候还是降低了项目启动速度.</p><p>点击查看<a href="https://cdn.jsdelivr.net/gh/NicknamedCoco/cdn/blog/swagger/swagger.txt">Swagger笔记</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Swagger </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>IDEA上使用Git</title>
       <link href="/2021/07/24/IDEA%E4%B8%8A%E4%BD%BF%E7%94%A8Git/"/>
       <url>/2021/07/24/IDEA%E4%B8%8A%E4%BD%BF%E7%94%A8Git/</url>
