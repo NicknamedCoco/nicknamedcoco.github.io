@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>破解IDEA记录</title>
+      <link href="/2021/07/26/%E7%A0%B4%E8%A7%A3IDEA%E8%AE%B0%E5%BD%95/"/>
+      <url>/2021/07/26/%E7%A0%B4%E8%A7%A3IDEA%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><blockquote><p>记录下破解IDEA系列产品，防止以后忘记</p></blockquote><p>一直都是破解IDEA，但之前都是破解一段时间后又要重新破解，而这次破解准确的说是不限享受30天免费服务，<br>我个人用的非常稳定，今晚把WebStrom破解了一下，也成功了，所以写个博客，给以后的自己看。</p><p>这个方法可以破解JetBrains全系列产品，包括 Pycharm、IDEA、WebStorm、Phpstorm、Datagrip、CLion、AppCode等。</p><ul><li>首先去关注搜云库技术团队，回复idea，可以获取最新的破解插件及详细的方法，如果我写的不够清楚<br>可以去看看别人写的破解过程。我把我用的插件上传到github上了，点击<a href="https://github.com/NicknamedCoco/cdn/raw/master/blog/pojie/pojie.zip">下载破解插件</a></li><li>得到这几个破解插件，其中zip文件是主要的破解插件，另外两个文件是在IDEA等工具安装时，如果没有弹出<br>注册框时执行，也就是说，如果IDEA等工具安装时，没让你选择免费试用30天，你就可以先执行这两个文件<br>如果弹出了注册框，选择了免费试用30天，进入了IDEA等软件内，则不用执行这两个文件。<br>注意：如果你是window用户，则执行.vbs文件，如果你是MAC/linux用户，则执行.sh文件<br><img src="https://cdn.jsdelivr.net/gh/NicknamedCoco/cdn/blog/pojie/pojie1.png" alt="破解1" loading="lazy"></li><li>进入IDEA后，随便创建个工程项目，然后将zip文件拖到待破解软件中，之后重启IDEA等软件<br>如果不能拖动安装，则你可以在插件中心，File -&gt; Settings -&gt; Plugins -&gt; Install Plugin From Disk，通过磁盘<br>文件安装插件，如下图：安装好后记得重启IDEA等软件<br><img src="https://cdn.jsdelivr.net/gh/NicknamedCoco/cdn/blog/pojie/pojie2.png" alt="破解2" loading="lazy"></li><li>重启软件后，点击插件中心的已安装插件，查看是否安装了”IDE Eval Reset”插件</li><li>安装好插件后，点击help -&gt; Eval Reset，来到破解插件的界面，在这里可以看到30天以后的日期<br>点击”Auto reset before per restart”，然后点击”Reset”，最后点击YES，然后重启IDEA等软件就行了</li><li>以上就是破解JetBrains系列软件的全部过程，会无限30天免费试用。<br>注意，破解后就不要升级IDEA等软件了，不然要重新破解。</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> IDEA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Swagger笔记</title>
       <link href="/2021/07/25/Swagger%E7%AC%94%E8%AE%B0/"/>
       <url>/2021/07/25/Swagger%E7%AC%94%E8%AE%B0/</url>
